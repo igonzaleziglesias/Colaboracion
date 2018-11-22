@@ -9,6 +9,7 @@ public class LeaderColaborator {
         //merge hecho
         //merge ClassRama2 hecho
         //dhsadhsahdsakjdsakjhgd
+        //modificacion leader
     }
     
 }
