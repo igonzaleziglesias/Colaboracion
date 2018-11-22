@@ -12,5 +12,6 @@ package leadercolaborator;
 public class ClaseRama2 {
     public void quepasa(){
         System.out.println("Soy el colaborador Samuel1418");
+        System.out.println("Segundo commit de la rama 2");
     }
 }
